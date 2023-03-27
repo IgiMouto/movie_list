@@ -19,7 +19,6 @@
             "released_date": "2018, 14 December",
             "trailer_link": "https://www.youtube.com/watch?v=tg52up16eq0",
             "image": "assets/images/spider_man_image.png"
-
         },
         {
             "title": "Knives Out",
@@ -30,7 +29,6 @@
             "released_date": "2019, 27 November",
             "trailer_link": "https://www.youtube.com/watch?v=qGqiHJTsRkQ",
             "image": "assets/images/knives_out_image.png"
-
         },
         {
             "title": "Guardians of the Galaxy",
@@ -41,7 +39,6 @@
             "released_date": "2014, 1 August",
             "trailer_link": "https://www.youtube.com/watch?v=d96cjJhvlMA",
             "image": "assets/images/guardians_of_the_galaxy_image.png"
-
         },
         {
             "title": "Avengers: Age of Ultron",
@@ -52,7 +49,6 @@
             "released_date": "2015, 1 May",
             "trailer_link": "https://www.youtube.com/watch?v=tmeOjFno6Do",
             "image": "assets/images/avengers_image.png"
-
         }
     ]
 }
